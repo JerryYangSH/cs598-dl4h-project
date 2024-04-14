@@ -6,8 +6,11 @@ Team ID: 62, Paper: 18
 Group Members:
 
 Minjia Zhu (minjiaz2@illinois.edu)
+
 Eddie Rodriguez (er17@illinois.edu)
+
 Yong Yang (yongy3@illinois.edu)
+
 Team 62 Github Repo: https://github.com/JerryYangSH/cs598-dl4h-project
 
 Paper 18 Link: https://proceedings.mlr.press/v182/gao22a/gao22a.pdf
